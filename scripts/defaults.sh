@@ -15,6 +15,7 @@ defaults write NSGlobalDomain NSDisableAutomaticTermination -bool true
 
 printf "System - Expand save panel by default\n"
 defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode -bool true
+defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode2 -bool tru
 
 printf "System - Disable the 'Are you sure you want to open this application?' dialog\n"
 defaults write com.apple.LaunchServices LSQuarantine -bool false
@@ -44,8 +45,8 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
 printf "System - Automatically restart if system freezes\n"
 systemsetup -setrestartfreeze on
 
-printf "System - Disable software updates\n"
-sudo softwareupdate --schedule off
+#printf "System - Disable software updates\n"
+#sudo softwareupdate --schedule off
 
 printf "Keyboard - Automatically illuminate built-in MacBook keyboard in low light\n"
 defaults write com.apple.BezelServices kDim -bool true

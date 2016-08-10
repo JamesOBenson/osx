@@ -33,6 +33,7 @@ export KNOX_APP_URL="https://d13itkw33a7sus.cloudfront.net/dist/K/Knox-2.3.2.zip
 export ITERM_APP_NAME=iTerm.app
 export ITERM_APP_URL="https://iterm2.com/downloads/stable/iTerm2-2_1_4.zip"
 
+
 export VIM_EXTENSION_ROOT="$HOME/.vim/bundle"
 export VIM_PATHOGEN_EXTENSION_PATH="$HOME/.vim/autoload/pathogen.vim"
 export VIM_PATHOGEN_EXTENSION_URL="https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim"
@@ -55,8 +56,8 @@ export VIM_TEXT_OBJECT_RUBY_BLOCK_EXTENSION_URL="git://github.com/nelstrom/vim-t
 export VIM_RAILS_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-rails"
 export VIM_RAILS_EXTENSION_URL="git://github.com/tpope/vim-rails.git"
 
-export SUBLIME_TEXT_APP_NAME="Sublime Text.app"
-export SUBLIME_TEXT_APP_URL="https://download.sublimetext.com/Sublime%20Text%20Build%203103.dmg"
+export SUBLIME_TEXT_APP_NAME="Sublime Text 3.app"
+export SUBLIME_TEXT_APP_URL="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg"
 
 export SUBLIME_TEXT_EXTENSION_ROOT="$HOME/Library/Application Support/Sublime Text 3/Packages"
 export GIT_GUTTER_EXTENSION_PATH="$SUBLIME_TEXT_EXTENSION_ROOT/GitGutter"
@@ -235,3 +236,24 @@ export KSDIFF_APP_URL="https://updates.blackpixel.com/latest?app=ksdiff"
 
 export HAND_BRAKE_APP_NAME="HandBrake.app"
 export HAND_BRAKE_APP_URL="http://handbrake.fr/rotation.php?file=HandBrake-0.10.5-MacOSX.6_GUI_x86_64.dmg"
+
+export KEEPASSX_APP_NAME="KeePassX.app"
+export KEEPASSX_APP_URL="https://www.keepassx.org/releases/2.0.2/KeePassX-2.0.2.dmg"
+
+export AIRDROID_APP_NAME="AirDroid.app"
+export AIRDROID_APP_URL="https://s3.amazonaws.com/dl.airdroid.com/AirDroid_Desktop_Client_3.3.2.dmg"
+
+export COLLOQUY_APP_NAME="Colloquy.app"
+export COLLOQUY_APP_URL="http://colloquy.info/downloads/colloquy-latest.zip"
+
+export FLUX_APP_NAME="Flux.app"
+export FLUX_APP_URL="https://justgetflux.com/mac/Flux.zip"
+
+export GOOGLE_DRIVE_APP_NAME="Google Drive.app"
+export GOOGLE_DRIVE_APP_URL="https://dl.google.com/drive/installgoogledrive.dmg"
+
+export FUSE_APP_NAME="Fuse.app"
+export FUSE_APP_URL="https://sourceforge.net/projects/osxfuse/files/latest/download?source=files"
+
+export VERACRYPT_APP_NAME="VeraCrypt.app"
+export VERACRYPT_APP_URL="https://download-codeplex.sec.s-msft.com/Download/Release?ProjectName=veracrypt&DownloadId=1537180&FileTime=130999181375130000&Build=21031"

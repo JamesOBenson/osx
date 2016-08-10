@@ -23,10 +23,10 @@ brew tap raggi/ale
 brew install openssl-osx-ca
 
 # GDBM
-brew install gdbm
+#brew install gdbm
 
 # libffi
-brew install libffi
+brew install 
 
 # libyaml
 brew install libyaml
@@ -190,3 +190,24 @@ brew install terminal-notifier
 
 # Watchman
 brew install watchman
+
+# monit
+brew install monit
+
+#teamviewer
+brew cask install teamviewer
+
+# OBS (Open Broadcast Software)
+brew cask install obs
+
+# TexStudio
+brew cask install texstudio
+
+# TextMate
+brew cask install textmate
+
+# TextWrangler
+brew cask install textwrangler
+
+# Transmission
+brew cask install transmission
