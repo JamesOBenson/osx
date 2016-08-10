@@ -26,7 +26,7 @@ brew install openssl-osx-ca
 #brew install gdbm
 
 # libffi
-brew install 
+brew install libffi
 
 # libyaml
 brew install libyaml
@@ -211,3 +211,9 @@ brew cask install textwrangler
 
 # Transmission
 brew cask install transmission
+
+# Github Desktop
+brew cask install github-desktop
+
+# Google Drive
+brew cask install google-drive
