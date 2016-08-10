@@ -257,3 +257,7 @@ export FUSE_APP_URL="https://sourceforge.net/projects/osxfuse/files/latest/downl
 
 export VERACRYPT_APP_NAME="VeraCrypt.app"
 export VERACRYPT_APP_URL="https://download-codeplex.sec.s-msft.com/Download/Release?ProjectName=veracrypt&DownloadId=1537180&FileTime=130999181375130000&Build=21031"
+
+export AVAST_APP_URL="http://files.downloadnow-1.com/s/software/15/56/11/32/avast_free_mac_security_online.dmg?token=1470889443_a20336522a658cf0bb46cbb66b4b6bda&fileName=avast_free_mac_security_online.dmg"
+export AVAST_APP_NAME="Avast Mac Security.app"
+
