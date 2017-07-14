@@ -43,3 +43,6 @@ brew cask install github-desktop
 
 # Google Drive
 brew cask install google-drive
+
+# DocUtils (for textmate RestructuredText)
+brew install docutils
